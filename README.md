@@ -1,4 +1,4 @@
-# DM3KS S-Match ATU – automatischer symmetrischer Antennenkoppler, 1250 W
+# DM3KS S-Match ATU – automatischer symmetrischer Antennenkoppler, ~1250 W
 
 Automatischer Koppler auf Basis des S-Match-Prinzips (Koax-Linkwindung durch
 Ferrithülsen, schwebender Sekundärkreis). Rollspule und Drehko werden durch
