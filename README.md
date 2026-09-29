@@ -47,3 +47,4 @@ Auf dem schwebenden Kreis treten mehrere kV HF auf. Nur in geschlossenem,
 isoliertem Gehäuse betreiben, nie unter Last abstimmen (Abstimmen mit 5–10 W).
 
 73 de DM3KS
+# DM3KS-S-Match-ATU
