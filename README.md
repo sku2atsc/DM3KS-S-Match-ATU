@@ -48,3 +48,11 @@ isoliertem Gehäuse betreiben, nie unter Last abstimmen (Abstimmen mit 5–10 W)
 
 73 de DM3KS
 # DM3KS-S-Match-ATU
+
+## Lizenz und Haftung
+
+Privates Amateurfunkprojekt, lizenziert unter
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
+– siehe [LICENSE](LICENSE). Nachbau und Betrieb erfolgen auf eigene Gefahr,
+siehe [HAFTUNGSAUSSCHLUSS.md](HAFTUNGSAUSSCHLUSS.md).
+
