@@ -1,4 +1,9 @@
-# DM3KS S-Match ATU – automatischer symmetrischer Antennenkoppler, ~1250 W
+# DM3KS S-Match ATU – automatischer symmetrischer Antennenkoppler, ~1250 W Peak
+
+# ACHTUNG! Aufbau und Betrieb ist nur lizenzierten Funkamateuren gestattet, die wissen was sie tun! 
+# Hier herrschen sehr hohe, hochfrequente Spannungen und/oder Ströme die bei Berührung extreme innerliche Verbrennungen bis hin zum Tod führen können! 
+
+## Um was geht es hier?
 
 Automatischer Koppler auf Basis des S-Match-Prinzips (Koax-Linkwindung durch
 Ferrithülsen, schwebender Sekundärkreis). Rollspule und Drehko werden durch
@@ -40,7 +45,6 @@ TRX ─[Steuerung + SWR-Brücke]─[W1JR-Balun]─► Innenleiter Ecoflex-10
 - [ ] Vakuumrelais-Typ festlegen (Spulenspannung, Datenblattwerte)
 - [ ] Steuerplatine in KiCad (PIC16F1938, Tandem-Match 1,5 kW, MOSFET-Treiber)
 - [ ] Firmware: Relais-Verzögerung, ggf. feinere Grobsuche für scharfe Resonanz
-- [x] Lizenz festlegen
 
 ## Sicherheit
 Auf dem schwebenden Kreis treten mehrere kV HF auf. Nur in geschlossenem,
