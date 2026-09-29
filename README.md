@@ -40,7 +40,7 @@ TRX ─[Steuerung + SWR-Brücke]─[W1JR-Balun]─► Innenleiter Ecoflex-10
 - [ ] Vakuumrelais-Typ festlegen (Spulenspannung, Datenblattwerte)
 - [ ] Steuerplatine in KiCad (PIC16F1938, Tandem-Match 1,5 kW, MOSFET-Treiber)
 - [ ] Firmware: Relais-Verzögerung, ggf. feinere Grobsuche für scharfe Resonanz
-- [ ] Lizenz festlegen
+- [x] Lizenz festlegen
 
 ## Sicherheit
 Auf dem schwebenden Kreis treten mehrere kV HF auf. Nur in geschlossenem,
