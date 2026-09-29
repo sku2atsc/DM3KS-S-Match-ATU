@@ -1,7 +1,7 @@
 # DM3KS S-Match ATU – automatischer symmetrischer Antennenkoppler, ~1250 W Peak
 
 # ACHTUNG! Aufbau und Betrieb ist nur lizenzierten Funkamateuren gestattet, die wissen was sie tun! 
-# Hier herrschen sehr hohe, hochfrequente Spannungen und/oder Ströme die bei Berührung extreme innerliche Verbrennungen bis hin zum Tod führen können! 
+# Hier herrschen sehr hohe, hochfrequente Spannungen und/oder Ströme, die bei Berührung extreme innerliche Verbrennungen bis hin zum Tod führen können! 
 
 ## Um was geht es hier?
 
