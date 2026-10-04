@@ -14,7 +14,7 @@ Steuerung (PIC16F1938, ATU-100-Firmware).
 
 ## Ziele
 - 160 m bis 10 m, symmetrische Speisung (Hühnerleiter)
-- 1250 W Dauerstrich-tauglich ausgelegt
+- 1200 W Dauerstrich-tauglich ausgelegt (erlaubte 750W PEP in DL + Reserve) 
 - hohe Güte: freitragende Luftspulen, Vakuumrelais, Doorknob-Kondensatoren
 - High-Z / Low-Z automatisch umschaltbar (SW-Ausgang der Firmware)
 
