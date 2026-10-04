@@ -55,8 +55,6 @@ isoliertem Gehäuse betreiben, nie unter Last abstimmen (Abstimmen mit 5–10 W)
 
 ## Lizenz und Haftung
 
-Privates Amateurfunkprojekt, lizenziert unter
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
-– siehe [LICENSE](LICENSE). Nachbau und Betrieb erfolgen auf eigene Gefahr,
+Privates Amateurfunkprojekt unter der [MIT-Lizenz](LICENSE).
+Nachbau und Betrieb erfolgen auf eigene Gefahr,
 siehe [HAFTUNGSAUSSCHLUSS.md](HAFTUNGSAUSSCHLUSS.md).
-
